@@ -1,0 +1,1 @@
+# Este proyecto no requiere librerías externas, solo código Python básico.
