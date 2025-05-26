@@ -1,0 +1,28 @@
+# Proyecto 4 - Análisis de Hábitos de Compra de Clientes Instacart
+
+## 📦 Descripción del Proyecto
+
+En este proyecto trabajarás con datos modificados de Instacart, una plataforma popular de entregas de comestibles similar a Uber Eats y Door Dash. El conjunto de datos original fue publicado en 2017 para una competición en Kaggle, y el que utilizamos ha sido reducido en tamaño para facilitar el procesamiento, incluyendo además valores ausentes y duplicados intencionales para simular datos reales más complejos.
+
+Tu objetivo principal es **limpiar los datos** y preparar un informe analítico que revele información valiosa sobre los hábitos de compra de los clientes de Instacart.
+
+Después de responder a cada pregunta, deberás incluir una explicación breve en celdas markdown dentro de tu notebook Jupyter para comunicar tus hallazgos.
+
+---
+
+## 🧰 Tecnologías y librerías utilizadas
+
+- Python 3.x
+- Pandas
+- Matplotlib
+
+---
+
+## ⚙️ Instrucciones para ejecución
+
+1. Clona el repositorio o la carpeta del proyecto.
+2. Instala las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
