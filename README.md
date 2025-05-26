@@ -26,5 +26,5 @@ Con un conjunto de datos modificado de Instacart, este proyecto se centra en la 
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- [Email](mailto:tuemail@ejemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/salvador-m-donnadieu)
+- [Email](mailto:s.donnadieu@outlook.com)
