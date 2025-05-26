@@ -1,6 +1,6 @@
 # Python-and-Data-Wrangling - [Salvador Medina Donnadieu]
 
-Este repositorio contiene cuatro proyectos de análisis de datos desarrollados en Python. Cada proyecto demuestra mis habilidades en limpieza de datos, análisis exploratorio, prueba de hipótesis y visualización aplicada a conjuntos de datos reales de comercio electrónico, transmisión de música y entrega de comestibles.
+Este repositorio contiene cuatro proyectos de análisis de datos desarrollados en Python. Cada proyecto demuestra mis habilidades en limpieza de datos, análisis exploratorio, prueba de hipótesis y visualización aplicada a conjuntos de datos reales.
 
 ---
 
