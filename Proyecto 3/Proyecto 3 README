@@ -1,0 +1,41 @@
+# Proyecto 3 - Análisis de Preferencias Musicales en Springfield y Shelbyville
+
+## 🎧 Descripción del Proyecto
+
+Este proyecto tiene como objetivo **probar una hipótesis** relacionada con las **preferencias musicales de usuarios en dos ciudades diferentes: Springfield y Shelbyville**. Se utilizarán datos reales de transmisión de música en línea para **comparar comportamientos** y extraer conclusiones con base en evidencia.
+
+El análisis está dividido en tres etapas:
+
+1. **Exploración inicial de los datos**: Descripción general y observaciones relevantes.
+2. **Preprocesamiento de datos**: Limpieza, manejo de valores faltantes o duplicados y formateo adecuado.
+3. **Prueba de hipótesis**: Aplicación de técnicas de análisis para confirmar o rechazar una hipótesis previamente definida.
+
+---
+
+## 🧪 Hipótesis
+
+> La actividad de los usuarios y las usuarias **varía según el día de la semana y depende de la ciudad**.
+
+Durante el análisis se evaluará si esta hipótesis puede:
+
+- Aceptarse completamente
+- Aceptarse parcialmente
+- Rechazarse parcialmente
+- Rechazarse completamente
+
+La interpretación será guiada por los resultados obtenidos en los análisis exploratorios y pruebas estadísticas.
+
+---
+
+## 🧰 Tecnologías y librerías utilizadas
+
+- Python 3.x
+- Pandas
+
+---
+
+## ⚙️ Instrucciones para ejecución
+
+1. Clona este repositorio o descarga la carpeta del proyecto
+2. Instala las dependencias necesarias:
+   pip install -r requirements.txt
